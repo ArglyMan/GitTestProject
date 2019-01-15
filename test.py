@@ -1,5 +1,10 @@
 
 def printhello():
-    print('Hello World!')
+    print('Hello Python3!')
+
+
 
 printhello()
+
+
+string('zhangsan lisi wangermazi xiaotaoqi')
